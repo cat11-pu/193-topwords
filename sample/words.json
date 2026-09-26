@@ -1,0 +1,5 @@
+{
+  "word_error_code": "E_BAD_WORD",
+  "limit": 3,
+  "words": ["beta", "alpha", "beta", "gamma", "alpha", "beta", "delta"]
+}
